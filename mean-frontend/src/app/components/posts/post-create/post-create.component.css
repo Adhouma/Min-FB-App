@@ -1,0 +1,16 @@
+mat-form-field {
+  width: 100%;
+}
+
+mat-spinner {
+  margin: auto;
+}
+
+.imagePreview {
+  height: 5rem;
+  margin-bottom: 20px;
+}
+
+.imagePreview img {
+  height: 100%;
+}

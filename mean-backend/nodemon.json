@@ -1,0 +1,7 @@
+{
+  "env": {
+    "MONGODB_ATLAS_USER": "adhouma",
+    "MONGODB_ATLAS_PASSWORD": "Mwq7CELZ3wjzayRS",
+    "JWT_SECRET_KEY": "secret_or_private_key"
+  }
+}

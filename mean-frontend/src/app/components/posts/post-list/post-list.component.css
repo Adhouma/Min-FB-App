@@ -1,0 +1,12 @@
+.info-text {
+  text-align: center;
+}
+
+mat-spinner {
+  margin: auto;
+}
+
+.post-image,
+.post-image img {
+  width: 100%;
+}
