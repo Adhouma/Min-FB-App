@@ -12,7 +12,7 @@ Min Facebook App using MEAN STACK (MongoDB / Express.js / Angular / Node.js)<br 
 - Create cluster on MongoDB Atlas <br />
 - Update nodemon.json located in mean-backend/nodemon.json and update MONGODB_ATLAS_USER, MONGODB_ATLAS_PASSWORD with your cluster credentials. <br> 
 - Clone this project <br />
-- Make sur nodemon is installed locally or globally<br />
+- Make sure nodemon is installed locally or globally<br />
 ```
 cd mean-backend
 npm install
